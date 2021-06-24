@@ -1,0 +1,9 @@
+div#buttonArea{
+    margin:auto;
+    width:30%;
+}
+button{
+    
+    padding:5px;
+    border-radius: 5px;
+}
